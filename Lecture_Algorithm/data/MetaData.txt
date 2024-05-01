@@ -1,0 +1,47 @@
+<결혼정보업체 데이터셋>
+
+<기본 정보>
+[0] gender: 성별
+[1] age: 나이
+[2] age_partner: 상대방 나이
+[3] importance_smae_religion: 종교를 중요시 여기는 지에 대한 응답(1-10)
+
+<상대방의 이상형에 대한 정보>
+[4] pref_of_partner_attractive: 상대방이 매력을 얼마나 중요하게 생각하는지의 정도
+[5] pref_of_partner_sincere: 상대방이 진정성/성실성을 얼마나 중요하게 생각하는지의 정도
+[6] pref_of_partner_intelligence: 상대방이 똑똑함을 얼마나 중요하게 생각하는지의 정도
+[7] pref_of_partner_funny: 상대방이 유머감각을 얼마나 중요하게 생각하는지의 정도
+[8] pref_of_partner_ambitious: 상대방이 포부/야망/꿈을 얼마나 중요하게 생각하는지의 정도
+[9] pref_of_partner_shared_interests : 상대방이 공통관심사를 얼마나 중요하게 생각하는지의 정도
+
+<상대방이 평가한 자신에 대한 정보>
+[10] eval_by_partner_attractive: 상대방이 평가한 자신의 매력의 정도
+[11] eval_by_partner_sincere: 상대방이 평가한 자신의 진정성의 정도
+[12] eval_by_partner_intelligence: 상대방이 평가한 자신의 똑똑함의 정도
+[13] eval_by_partner_funny: 상대방이 평가한 자신의 유머감각의 정도
+[14] eval_by_partner_ambitious: 상대방이 평가한 자신의 포부/야망/꿈의 정도
+[15] eval_by_partner_shared_interests: 상대방이 평가한 공통관심사의 정도
+
+<자신의 이상형에 대한 정보>
+[16] my_pref_attractive: 자신이 상대방의 매력을 얼마나 중요하게 생각하는지의 정도
+[17] my_pref_sincere: 자신이 상대방의 진정성/성실성을 얼마나 중요하게 생각하는지의 정도
+[18] my_pref_intelligence: 자신이 상대방의 똑똑함을 얼마나 중요하게 생각하는지의 정도
+[19] my_pref_funny: 자신이 상대방의 유머감각을 얼마나 중요하게 생각하는지의 정도
+[20] my_pref_ambitious: 자신이 상대방의 포부/야망/꿈을 얼마나 중요하게 생각하는지의 정도
+[21] my_pref_shared_interests: 자신이 상대방과의 공통관심사를 얼마나 중요하게 생각하는지의 정도
+
+<자신이 상대방에 대해 평가한 정보>
+[22] my_eval_attractive: 내가 상대방의 매력에 대하여 평가한 값
+[23] my_eval_sincere: 내가 상대방의 진정성/성실성에 대하여 평가한 값
+[24] my_eval_intelligence: 내가 상대방의 똑똑함에 대하여 평가한 값
+[25] my_eval_funny: 내가 상대방의 유머감각에 대하여 평가한 값
+[26] my_eval_ambitious: 내가 상대방의 포부/야망/꿈에 대하여 평가한 값
+[27] my_eval_shared_interests: 내가 상대방과의 공통관심사에 대하여 평가한 값
+
+<기타 사항들>
+[28] interests_correlate: 서로 간의 공통 관심사 연관도
+[29] expected_happy_with_couple_match: 매칭을 통해 만난 사람과 함께할 때 얼마나 좋을지에 대한 기대치
+[30] how_much_i_liked: 내가 상대방이 얼마나 마음에 들었는지의 여부(값)
+[31] guess_prob_liked: 상대방이 나를 얼마나 마음에 들어하였을지의 여부(예상값)
+[32] married - target feature: 만남 이후 결혼 성사 여부
+
