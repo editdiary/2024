@@ -18,3 +18,11 @@ __pycache__
 # .zip files
 *.zip
 .zip
+
+# image files
+*.png
+*.jpg
+*.jpeg
+.png
+.jpg
+.jpeg
